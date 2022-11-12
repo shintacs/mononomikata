@@ -8,10 +8,10 @@
 
 中央に映る小屋と窓のオブジェクトに異なるシェーダーを持たせ、右の窓で観察したときには通常の色彩が、左の窓で観察したときには雪が積もったような色合いが、他の視点で観察したときには画面に表示されないように設計している。
 
-## 参考にさせていただいた資料
-・窓シェーダーを使った仕掛けの作り方
+## 参考資料
+- 窓シェーダーを使った仕掛けの作り方
 https://styly.cc/ja/tips/9windows_discont_windowshader/
-・7日間でマスターするUnityシェーダー入門
+- 7日間でマスターするUnityシェーダー入門
 https://nn-hokuson.hatenablog.com/entry/2018/02/15/140037
-・Toon Shader Using Unity】
+- Toon Shader Using Unity】
 https://www.gamedev.net/tutorials/programming/graphics/toon-shader-using-unity-r5095/
